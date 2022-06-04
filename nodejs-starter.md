@@ -1,7 +1,5 @@
 ## VS Code Editor Setup
 
----
-
 ### Extensions
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
