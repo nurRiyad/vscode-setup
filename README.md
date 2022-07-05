@@ -54,25 +54,14 @@
     "**/yarn.lock": true
   },
 
-  //All Common Extension Settings are here
+  //Common Extension Settings are here
 
-  //Cspell
-  "cSpell.allowCompoundWords": true,
-  "cSpell.language": "en,en-US",
-
-  //Emmet
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": false,
 
-  //ErrorLens
-  "errorLens.enabledDiagnosticLevels": ["warning", "error"],
-  "errorLens.excludeBySource": ["cSpell", "eslint"],
-
-  //IconFy
   "iconify.annotations": true,
   "iconify.inplace": true,
 
-  //SVG
   "svg.preview.mode": "svg"
 }
 ```
@@ -89,12 +78,9 @@
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
 
     "dbaeumer.vscode-eslint",
     "Vue.volar",
-    "usernamehw.errorlens",
-    "streetsidesoftware.code-spell-checker",
     "formulahendry.auto-rename-tag",
     "ritwickdey.liveserver",
     "vue.vscode-typescript-vue-plugin",
