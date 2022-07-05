@@ -7,30 +7,30 @@
 
 <samp><b>FrontEnd VanillaJS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
 
 <samp><b>FrontEnd VanillaTS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
 
 <samp><b>FrontEnd Vue + JS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
 
 <samp><b>FrontEnd Vue + TS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
 
 <samp><b>Backend NodeJs + JS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
 
 <samp><b>Backend NodeJs + TS Projects</b></samp>
 
-[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
