@@ -29,3 +29,15 @@
 
 [`settings.json`](./CommonSettingsExtensions/settings.json)<br>
 [`extensions.json`](./CommonSettingsExtensions/extensions.json)
+
+
+<samp><b>Backend NodeJs + JS Projects</b></samp>
+
+[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`extensions.json`](./CommonSettingsExtensions/extensions.json)
+
+
+<samp><b>Backend NodeJs + TS Projects</b></samp>
+
+[`settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`extensions.json`](./CommonSettingsExtensions/extensions.json)
