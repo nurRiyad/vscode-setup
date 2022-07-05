@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.where-am-i",
+
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "file-icons.file-icons",
+
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "formulahendry.auto-rename-tag",
+    "ritwickdey.liveserver",
+    "vue.vscode-typescript-vue-plugin",
+    "esbenp.prettier-vscode",
+  ]
+}
