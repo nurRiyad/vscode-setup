@@ -5,23 +5,25 @@
 [`settings.json`](./CommonSettingsExtensions/settings.json)<br>
 [`extensions.json`](./CommonSettingsExtensions/extensions.json)
 
-<samp><b>FrontEnd VanillaJS Projects</b></samp>
+<br>
+<samp><b>FrontEnd Vanilla JS/TS Projects</b></samp>
 
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
+[`.vscode/settings.json`](./Vanilla/settings.json)<br>
+```
+npm init -y
+npm init eslint/config
+```
 
-<samp><b>FrontEnd VanillaTS Projects</b></samp>
-
-[`.vscode/settings.json`](./VanillaJS/settings.json)<br>
-
+<br>
 <samp><b>FrontEnd Vue Projects</b></samp>
-
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
 ```
 npm init vue@latest
 ```
-<samp><b>Backend NodeJs Projects</b></samp>
 
+<br>
+<samp><b>Backend NodeJs Projects</b></samp>
 [`.vscode/settings.json`](./NodeJS/settings.json)<br>
 [`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
 
