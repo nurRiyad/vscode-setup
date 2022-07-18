@@ -5,14 +5,15 @@
     "antfu.where-am-i",
 
     "antfu.icons-carbon",
+    "dracula-theme.theme-dracula",
     "antfu.theme-vitesse",
-    "file-icons.file-icons",
+    "pkief.material-icon-theme",
 
-    "dbaeumer.vscode-eslint",
     "Vue.volar",
-    "formulahendry.auto-rename-tag",
-    "ritwickdey.liveserver",
     "vue.vscode-typescript-vue-plugin",
+    "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "ritwickdey.liveserver"
   ]
 }
