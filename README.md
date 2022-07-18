@@ -16,6 +16,7 @@ npm init eslint/config
 
 <br>
 <samp><b>FrontEnd Vue Projects</b></samp>
+
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
 ```
@@ -24,6 +25,7 @@ npm init vue@latest
 
 <br>
 <samp><b>Backend NodeJs Projects</b></samp>
+
 [`.vscode/settings.json`](./NodeJS/settings.json)<br>
 [`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
 
