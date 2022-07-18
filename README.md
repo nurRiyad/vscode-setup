@@ -9,6 +9,9 @@
 <samp><b>FrontEnd Vanilla JS/TS Projects</b></samp>
 
 [`.vscode/settings.json`](./Vanilla/settings.json)<br>
+
+> Make sure your .eslintrs.json file has `"root": true`
+
 ```
 npm init -y
 npm init eslint/config
