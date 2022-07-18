@@ -17,16 +17,16 @@
 
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
->Create new project with `npm init vue@latest` </br>
->When creating new project enable eslint and prettier </br>
->That will create necessary `.eslintrc.json` file for your </br>
-
+```
+npm init vue@latest
+```
 <samp><b>Backend NodeJs Projects</b></samp>
 
 [`.vscode/settings.json`](./NodeJS/settings.json)<br>
 [`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
 
 ```
+npm init -y
 npm install -D eslint prettier
 npx install-peerdeps --dev eslint-config-airbnb-base
 npm install -D eslint-config-prettier eslint-plugin-prettier
