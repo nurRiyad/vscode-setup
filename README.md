@@ -12,18 +12,11 @@
 
 <samp><b>FrontEnd VanillaTS Projects</b></samp>
 
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./VanillaJS/settings.json)<br>
 
-<samp><b>FrontEnd Vue + JS Projects</b></samp>
+<samp><b>FrontEnd VueJs Projects</b></samp>
 
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
-
-<samp><b>FrontEnd Vue + TS Projects</b></samp>
-
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./VueJs/settings.json)<br>
 
 <samp><b>Backend NodeJs + JS Projects</b></samp>
 
