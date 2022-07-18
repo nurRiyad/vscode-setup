@@ -12,6 +12,7 @@
 ```
 npm init -y
 npm init eslint/config
+npm i -D prettier
 ```
 
 <br>
