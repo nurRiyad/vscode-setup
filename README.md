@@ -10,7 +10,7 @@
 
 [`.vscode/settings.json`](./Vanilla/settings.json)<br>
 
-> Make sure your .eslintrs.json file has `"root": true`
+> <samp> Make sure your .eslintrs.json file has `"root": true` </samp>
 
 ```
 npm init -y
