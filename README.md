@@ -21,3 +21,9 @@
 
 [`.vscode/settings.json`](./NodeJS/settings.json)<br>
 [`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
+
+```
+npm install -D eslint prettier
+npx install-peerdeps --dev eslint-config-airbnb-base
+npm install -D eslint-config-prettier eslint-plugin-prettier
+```
