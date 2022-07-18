@@ -17,12 +17,7 @@
 
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
-<samp><b>Backend NodeJs + JS Projects</b></samp>
+<samp><b>Backend NodeJs Projects</b></samp>
 
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
-
-<samp><b>Backend NodeJs + TS Projects</b></samp>
-
-[`.vscode/settings.json`](./CommonSettingsExtensions/settings.json)<br>
-[`.vscode/extensions.json`](./CommonSettingsExtensions/extensions.json)
+[`.vscode/settings.json`](./NodeJS/settings.json)<br>
+[`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
