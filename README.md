@@ -17,11 +17,9 @@
 
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
-> Create new project with `npm init vue@latest` 
-
-> When creating new project enable eslint and prettier
-
-> That will create necessary `.eslintrc.json` file for your
+>Create new project with `npm init vue@latest` </br>
+>When creating new project enable eslint and prettier </br>
+>That will create necessary `.eslintrc.json` file for your </br>
 
 <samp><b>Backend NodeJs Projects</b></samp>
 
