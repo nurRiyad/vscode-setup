@@ -10,12 +10,13 @@
 
 [`.vscode/settings.json`](./Vanilla/settings.json)<br>
 
-> <samp> Make sure your .eslintrs.json file has `"root": true` </samp>
+> <samp>add "prettier" to the "extends" array in your .eslintrc.* file. Make sure to put it last, so it gets the chance to override other configs</samp>
 
 ```
 npm init -y
-npm init eslint/config
 npm i -D prettier
+npm init eslint/config
+npm install -D eslint-config-prettier
 ```
 
 <br>
