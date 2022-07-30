@@ -32,7 +32,7 @@ npm init vue@latest
 <samp><b>Backend NodeJs Projects</b></samp>
 
 [`.vscode/settings.json`](./NodeJS/settings.json)<br>
-[`.eslintrc.json`](./NodeJS/.eslintrc.json)<br>
+> <samp>add "prettier" to the "extends" array in your .eslintrc.* file. Make sure to put it last, so it gets the chance to override other configs</samp>
 
 ```
 npm init -y
