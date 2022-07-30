@@ -36,7 +36,7 @@ npm init vue@latest
 
 ```
 npm init -y
-npm install -D eslint prettier
-npx install-peerdeps --dev eslint-config-airbnb-base
-npm install -D eslint-config-prettier eslint-plugin-prettier
+npm i -D prettier
+npm init eslint/config
+npm install -D eslint-config-prettier
 ```
