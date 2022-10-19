@@ -46,7 +46,4 @@
 
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.triggerExpansionOnTab": false,
-
-  "iconify.annotations": true,
-  "iconify.inplace": true
 }
