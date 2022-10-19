@@ -28,18 +28,18 @@ npm install -D eslint-config-prettier
 ```
 npm init vue@latest
 ```
-Linting Setup for Vue
+<samp>Linting Setup for Vue</samp>
 ```
  npm i -D eslint @antfu/eslint-config
 ```
 
-.eslintrc
+<samp>.eslintrc</samp>
 ```
 {
   "extends": "@antfu"
 }
 ```
-Add to your package.json
+<samp>Add to your package.json</samp>
 ```
 {
   "scripts": {
