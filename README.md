@@ -24,9 +24,31 @@ npm install -D eslint-config-prettier
 
 [`.vscode/settings.json`](./Vue/settings.json)<br>
 
+
 ```
 npm init vue@latest
 ```
+Linting Setup for Vue
+```
+ npm i -D eslint @antfu/eslint-config
+```
+
+.eslintrc
+```
+{
+  "extends": "@antfu"
+}
+```
+Add to your package.json
+```
+{
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  }
+}
+```
+
 
 <br>
 <samp><b>Backend NodeJs Projects</b></samp>
